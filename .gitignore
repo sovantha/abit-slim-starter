@@ -1,0 +1,11 @@
+.DS_Store
+composer.lock
+phpunit.xml
+node_modules
+vendor
+.idea
+composer.phar
+.phpunit.result.cache
+build/
+debugbar/
+cache/

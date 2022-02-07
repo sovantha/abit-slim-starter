@@ -1,0 +1,27 @@
+{
+  "name": "abit-pharmacy",
+  "version": "1.0.0",
+  "description": "abit pharmacy drug store inventory stock",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.3.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^4.0.0",
+    "grunt-contrib-uglify": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "abit",
+    "pharmacy",
+    "drug",
+    "store",
+    "inventory",
+    "stock"
+  ],
+  "author": "sovantha",
+  "license": "ISC"
+}

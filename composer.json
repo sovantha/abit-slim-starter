@@ -1,0 +1,28 @@
+{
+	"name": "abit/cambodian-hair-extension",
+    "authors": [
+        {
+            "name": "Sok Sovantha",
+            "email": "sovantha.sok@gmail.com"
+        }
+    ],
+    "autoload": {
+		"files": [
+			"./src/functions.php"
+		],
+    	"psr-4": {
+    		"App\\": "src"
+    	}
+    },
+    "require": {
+        "slim/csrf": "^0.8.3",
+        "slim/flash": "^0.4.0",
+        "illuminate/database": "^5.5",
+        "slim/slim": "3.12.2",
+		"slim/php-view": "^2.2"
+    },
+	"require-dev": {
+		"symfony/var-dumper": "^3.4",
+		"kitchenu/slim-debugbar": "^1.1"
+	}
+}

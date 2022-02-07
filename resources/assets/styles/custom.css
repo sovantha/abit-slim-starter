@@ -1,0 +1,11 @@
+/* custom */
+.nav-sidebar .nav-link p {
+	margin-left: 5px;
+}
+.nav-sidebar .nav-header:not(:first-of-type) {
+    padding: 1rem .5rem;
+}
+.form-group.required .col-form-label:after {
+  content: "*";
+  color: red;
+}
