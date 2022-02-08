@@ -3,8 +3,8 @@
 return [
     'app_info' => [
         'name' => 'abit',
-        'description' => 'Abit Online Invoice Management App',
-        'version' => '1.0.1',
+        'description' => 'Abit Slim Starter Kit',
+        'version' => '1.0.0',
         'company' => '<b>A.B.I.T</b> <small>SOLUTIONS</small>',
         'companyUrl' => 'https://www.facebook.com/abitsolutions',
         'author' => 'ABIT SOLUTION',
@@ -34,9 +34,9 @@ return [
         'eloquent' => [
             'driver' => 'mysql',
             'host' => 'localhost',
-            'database' => 'oima',
-            'username' => 'root',
-            'password' => 'usbw',
+            'database' => '',
+            'username' => '',
+            'password' => '',
             'charset' => 'utf8',
             'collation' => 'utf8_unicode_ci'
         ]
